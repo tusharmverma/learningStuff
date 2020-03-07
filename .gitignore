@@ -335,3 +335,4 @@ venv/lib/python3.8/site-packages/setuptools-40.8.0-py3.8.egg
 venv/lib/python3.8/site-packages/setuptools.pth
 venv/pyvenv.cfg
 .idea/vcs.xml
+__pycache__/mylib.cpython-38.pyc
